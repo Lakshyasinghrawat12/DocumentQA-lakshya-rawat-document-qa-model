@@ -55,21 +55,20 @@ python main.py
 
 ## 📝 Example Usage
 
-### 📄 Input Document 1
-![Input Document](assets/test_image1.jpg)
+<p><strong>Input Document 1:</strong></p>
+<img src="assets/test_image1.jpg" alt="Input Document" width="400"/>
 
-### ✅ Extracted Answer
-![Model Output](assets/model_output1.png)
+<p><strong>Model Output:</strong></p>
+<img src="assets/model_output1.png" alt="Model Output" width="400"/>
 
+<p><strong>Input Document 2:</strong></p>
+<img src="assets/test_image2.jpg" alt="Input Document" width="400"/>
 
-### 📄 Input Document
-![Input Document](assets/test_image2.jpeg)
+<p><strong>Model Output:</strong></p>
+<img src="assets/model_output2_1.png" alt="Model Output" width="400"/>
 
-### ✅ Extracted Answer
-![Model Output](assets/model_output2_1.png)
-
-![Model Output](assets/model_output2_2.png)
-
+<p><strong>Model Output:</strong></p>
+<img src="assets/model_output2_2.png" alt="Model Output" width="400"/>
 
 
 ---
