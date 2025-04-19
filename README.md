@@ -53,6 +53,25 @@ python main.py
 - You can customize main.py to accept dynamic images and questions.
 
 
+## 📝 Example Usage
+
+### 📄 Input Document 1
+![Input Document](assets/test_image1.jpg)
+
+### ✅ Extracted Answer
+![Model Output](assets/model_output1.png)
+
+
+### 📄 Input Document
+![Input Document](assets/test_image2.jpeg)
+
+### ✅ Extracted Answer
+![Model Output](assets/model_output2_1 (1).png)
+
+![Model Output](assets/model_output2_2.png)
+
+
+
 ---
 
 ## 🔗 Links
