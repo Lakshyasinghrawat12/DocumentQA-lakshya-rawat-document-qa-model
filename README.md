@@ -53,6 +53,15 @@ python main.py
 - You can customize main.py to accept dynamic images and questions.
 
 
+---
+
+## 🔗 Links
+
+- 🤗 Hugging Face Profile: [@lakshya-rawat](https://huggingface.co/lakshya-rawat)
+- 🤗 Document QA Model: [document-qa-model](https://huggingface.co/lakshya-rawat/document-qa-model)
+
+
+
 # 🤝 Contributing
 
 **Feel free to open issues or submit pull requests to improve the project!**
