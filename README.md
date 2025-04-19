@@ -59,16 +59,16 @@ python main.py
 <img src="assets/test_image1.jpg" alt="Input Document" width="400"/>
 
 <p><strong>Model Output:</strong></p>
-<img src="assets/model_output1.png" alt="Model Output" width="400"/>
+<img src="assets/model_output1.png" alt="Model Output" width="600"/>
 
 <p><strong>Input Document 2:</strong></p>
-<img src="assets/test_image2.jpg" alt="Input Document" width="400"/>
+<img src="assets/test_image2.jpeg" alt="Input Document" width="400"/>
 
 <p><strong>Model Output:</strong></p>
-<img src="assets/model_output2_1.png" alt="Model Output" width="400"/>
+<img src="assets/model_output2_1.png" alt="Model Output" width="600"/>
 
 <p><strong>Model Output:</strong></p>
-<img src="assets/model_output2_2.png" alt="Model Output" width="400"/>
+<img src="assets/model_output2_2.png" alt="Model Output" width="600"/>
 
 
 ---
