@@ -66,7 +66,7 @@ python main.py
 ![Input Document](assets/test_image2.jpeg)
 
 ### ✅ Extracted Answer
-![Model Output](assets/model_output2_1 (1).png)
+![Model Output](assets/model_output2_1.png)
 
 ![Model Output](assets/model_output2_2.png)
 
